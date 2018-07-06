@@ -1,0 +1,17 @@
+{
+	"nodeServer": {
+		"host": "127.0.0.1",
+		"port": 7527,
+		"msg": {
+			"connect": "Node server is running "
+		},
+		"error": {
+			"notConnect": "Error while connecting to Node Server"
+		}
+	},
+	"mongodb" : {
+        "host": "127.0.0.1",
+        "port": 27017,
+        "db": "profitbricks"
+    }
+}
